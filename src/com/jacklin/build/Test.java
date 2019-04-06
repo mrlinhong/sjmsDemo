@@ -7,5 +7,7 @@ public class Test {
 
         Computer computer1 = Director.constructorComputer(new HuaWeiBuilder(new Computer()));
         System.out.println(computer1);
+
+
     }
 }
